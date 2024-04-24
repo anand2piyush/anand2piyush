@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anand2piyush&label=Profile%20views&color=0e75b6&style=flat" alt="anand2piyush" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anand2piyush" alt="anand2piyush" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJs**
 
@@ -29,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anand2piyush&show_icons=true&locale=en" alt="anand2piyush" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anand2piyush&" alt="anand2piyush" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anand2piyush" alt="anand2piyush" /></a> </p>
+
