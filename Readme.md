@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anand2piyush&label=Profile%20views&color=0e75b6&style=flat" alt="anand2piyush" /> </p>
 
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **WebD**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anand2piyush?tab=repositories](https://github.com/anand2piyush?tab=repositories)
 
