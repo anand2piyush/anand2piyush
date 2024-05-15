@@ -36,8 +36,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anand2piyush&show_icons=true&locale=en&layout=compact" alt="anand2piyush" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anand2piyush&show_icons=true&locale=en" alt="anand2piyush" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anand2piyush&show_icons=true&locale=en" alt="anand2piyush" /></p>-->
 
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anand2piyush&" alt="anand2piyush" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anand2piyush&" alt="anand2piyush" /></p> 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anand2piyush" alt="anand2piyush" /></a> </p> -->
 
